@@ -1,0 +1,8 @@
+version: 1.0.7
+files:
+  - url: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-Setup-1.0.7.exe
+    sha512: otnqTdKVoVsfBL1FyDsLOlLDCM4VxbtPSNLlPE93GqlaUHmjyaXTEbE9nBOv3FBFW4IpefxxLmbcMeG35ARaKg==
+    size: 257588123
+path: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-Setup-1.0.7.exe
+sha512: otnqTdKVoVsfBL1FyDsLOlLDCM4VxbtPSNLlPE93GqlaUHmjyaXTEbE9nBOv3FBFW4IpefxxLmbcMeG35ARaKg==
+releaseDate: '2026-11-20T19:30:17.999Z'

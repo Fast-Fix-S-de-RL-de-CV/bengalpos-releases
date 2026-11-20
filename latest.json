@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-20T19:18:16Z",
-  "notes": "Nueva pantalla de acceso, igual que en bengalpos.com: entra con tu usuario o correo, o explora un demo de tu giro.",
+  "updatedAt": "2026-11-20T19:50:59Z",
+  "notes": "Ahora Bengal POS avisa cuando hay versión nueva: en Windows y Mac se baja sola y se instala con un toque; en Android e iOS te lleva a la descarga o a la tienda. Incluye la pantalla de acceso igual que bengalpos.com.",
   "android": {
-    "version": "1.019",
-    "build": 20,
-    "apk": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.019/BengalPOS-1.019-android.apk",
+    "version": "1.020",
+    "build": 21,
+    "apk": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-1.020-android.apk",
     "play": "https://play.google.com/store/apps/details?id=com.bengalpos.app"
   },
   "ios": {
@@ -13,12 +13,12 @@
     "lookup": "https://itunes.apple.com/lookup?bundleId=com.bengalpos.app&country=mx"
   },
   "windows": {
-    "version": "1.0.6",
-    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.019/BengalPOS-Setup-1.0.6.exe"
+    "version": "1.0.7",
+    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-Setup-1.0.7.exe"
   },
   "mac": {
-    "version": "1.0.6",
-    "arm64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.019/BengalPOS-1.0.6-mac-apple-silicon.dmg",
-    "x64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.019/BengalPOS-1.0.6-mac-intel.dmg"
+    "version": "1.0.7",
+    "arm64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-1.0.7-mac-arm64.dmg",
+    "x64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-1.0.7-mac-x64.dmg"
   }
 }
