@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-20T19:50:59Z",
-  "notes": "Ahora Bengal POS avisa cuando hay versión nueva: en Windows y Mac se baja sola y se instala con un toque; en Android e iOS te lleva a la descarga o a la tienda. Incluye la pantalla de acceso igual que bengalpos.com.",
+  "updatedAt": "2026-11-20T23:42:52Z",
+  "notes": "Windows 1.0.8: contador de billetes y monedas al cerrar caja (si el negocio lo activa en Configuración).",
   "android": {
     "version": "1.020",
     "build": 21,
@@ -13,8 +13,8 @@
     "lookup": "https://itunes.apple.com/lookup?bundleId=com.bengalpos.app&country=mx"
   },
   "windows": {
-    "version": "1.0.7",
-    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-Setup-1.0.7.exe"
+    "version": "1.0.8",
+    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.0.8/BengalPOS-Setup-1.0.8.exe"
   },
   "mac": {
     "version": "1.0.7",
