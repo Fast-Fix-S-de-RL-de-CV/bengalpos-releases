@@ -7,8 +7,8 @@ Instaladores oficiales de **Bengal POS**, el punto de venta de [bengalpos.com](h
 | Equipo | Archivo |
 | --- | --- |
 | Windows 10 u 11 | `BengalPOS-Setup-*.exe` |
-| Mac con Apple Silicon (M1 o más nuevo) | `BengalPOS-*-mac-apple-silicon.dmg` |
-| Mac con Intel | `BengalPOS-*-mac-intel.dmg` |
+| Mac con Apple Silicon (M1 o más nuevo) | `BengalPOS-*-mac-arm64.dmg` (hasta 1.0.6: `-mac-apple-silicon.dmg`) |
+| Mac con Intel | `BengalPOS-*-mac-x64.dmg` (hasta 1.0.6: `-mac-intel.dmg`) |
 | Android (terminales y celulares, fuera de Google Play) | `BengalPOS-*-android.apk` |
 | iPhone y iPad | [App Store](https://apps.apple.com/mx/app/bengal-pos/id6762742229) |
 
@@ -22,4 +22,4 @@ Las apps revisan solas si hay una versión nueva y avisan con una burbuja para a
 
 - `latest.json`: última versión de cada plataforma; lo leen las apps para mostrar la burbuja de actualización.
 - `desktop/latest.yml` y `desktop/latest-mac.yml`: los usa el actualizador automático de Windows y Mac.
-- Cada versión vive en un *release* con sus instaladores. El proceso está en `docs/lanzar-version.md` del repo privado de la app.
+- Cada versión vive en un *release* con sus instaladores. El proceso está en `docs/lanzar-version.md` del repo privado de la app; `script/publish-public-release.mjs` publica aquí.
