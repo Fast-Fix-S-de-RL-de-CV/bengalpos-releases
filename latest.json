@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-11-20T19:18:16Z",
+  "notes": "Nueva pantalla de acceso, igual que en bengalpos.com: entra con tu usuario o correo, o explora un demo de tu giro.",
+  "android": {
+    "version": "1.019",
+    "build": 20,
+    "apk": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.019/BengalPOS-1.019-android.apk",
+    "play": "https://play.google.com/store/apps/details?id=com.bengalpos.app"
+  },
+  "ios": {
+    "appStore": "https://apps.apple.com/mx/app/bengal-pos/id6762742229",
+    "lookup": "https://itunes.apple.com/lookup?bundleId=com.bengalpos.app&country=mx"
+  },
+  "windows": {
+    "version": "1.0.6",
+    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.019/BengalPOS-Setup-1.0.6.exe"
+  },
+  "mac": {
+    "version": "1.0.6",
+    "arm64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.019/BengalPOS-1.0.6-mac-apple-silicon.dmg",
+    "x64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.019/BengalPOS-1.0.6-mac-intel.dmg"
+  }
+}
