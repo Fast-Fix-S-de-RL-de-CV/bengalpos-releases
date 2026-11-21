@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-21T06:10:18Z",
-  "notes": "1.022 y escritorio 1.0.10: el ticket sale con el estilo de la web (letra, tamaños y negritas), ajuste de tamaño y tipo de letra, ticket de prueba de 58/80 mm, logo siempre y pruebas de cámara y lector de códigos.",
+  "updatedAt": "2026-11-21T20:42:24Z",
+  "notes": "Escritorio 1.0.11: cobro y ticket a lo ancho en pantalla horizontal; el POS muestra solo lo que se vende (sin insumos) y los platillos ya no salen agotados; logo del negocio arriba del ticket y pie de Bengal POS abajo; identificar cliente recuerda el último método; sin la insignia de Caja Abierta; dólares en caja sin venta.",
   "android": {
     "version": "1.022",
     "build": 23,
@@ -17,8 +17,8 @@
     "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.022/BengalPOS-Setup-1.0.10.exe"
   },
   "mac": {
-    "version": "1.0.10",
-    "arm64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.022/BengalPOS-1.0.10-mac-arm64.dmg",
-    "x64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.022/BengalPOS-1.0.10-mac-x64.dmg"
+    "version": "1.0.11",
+    "arm64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.023/BengalPOS-1.0.11-mac-arm64.dmg",
+    "x64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.023/BengalPOS-1.0.11-mac-x64.dmg"
   }
 }
