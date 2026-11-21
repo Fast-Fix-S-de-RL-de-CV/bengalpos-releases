@@ -1,17 +1,17 @@
-version: 1.0.7
+version: 1.0.9
 files:
-  - url: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-1.0.7-mac-x64.zip
-    sha512: MCjgr2q3Hy/7v9IXdtL/VdOs1TyV/2uoyT8IKSUExcpDHuOsrKrjF11YYQmAoASazghDhoc5yK895+UGttH+yw==
-    size: 311839245
-  - url: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-1.0.7-mac-arm64.zip
-    sha512: OplOBQYUHCGXMcoKmJGjg2gagWqKI/cNdh4dMtQTd9jomqON1LP9mhPVDZqUjz0BECsm2eJNTLgZYy6RGWtuSg==
-    size: 303726353
-  - url: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-1.0.7-mac-x64.dmg
-    sha512: Gpbra93lM1DePNxKzfC6uAHZeE45HcVJtkg2ukkq/JkD2grJ1KuVsCXp0pCINZt2gspWHsn/yzIFN+9ur9DbTA==
-    size: 322350466
-  - url: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-1.0.7-mac-arm64.dmg
-    sha512: zIIvN5ife8f6VL/Mifjkt3cdiaHL9hBXFiOEj0qgmYMwWRQ5pEyEanZn8flXFB2knJQu09rqocPQDvQgffhrVw==
-    size: 314146387
-path: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.020/BengalPOS-1.0.7-mac-x64.zip
-sha512: MCjgr2q3Hy/7v9IXdtL/VdOs1TyV/2uoyT8IKSUExcpDHuOsrKrjF11YYQmAoASazghDhoc5yK895+UGttH+yw==
-releaseDate: '2026-11-20T19:39:09.702Z'
+  - url: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.021/BengalPOS-1.0.9-mac-x64.zip
+    sha512: F+CzvBYQeliHoMY/lu0pcmJZTIKkFJ6NI9cG/B6KQT4jHjR5F7d2WovYWxLChTyFYaZbrxLZsjEtAzV8f2BSew==
+    size: 311873303
+  - url: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.021/BengalPOS-1.0.9-mac-arm64.zip
+    sha512: QkZW/jgN7KJM1diFH33Zsy+AyLR1zo6ME7VuX4gJh9ye3cJfMkW+AIRZKWrm1dFR0EhELLt5+OIyIdcPBAYlyw==
+    size: 303760429
+  - url: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.021/BengalPOS-1.0.9-mac-x64.dmg
+    sha512: 9TIOb2BiMrdTLxzuBqoeLg46bciHCZ8jUc2FvdsddnKpoEoLE2wd7GvhprglfXjXcXzcbrqb6IxOMJEi6F/HGg==
+    size: 322358423
+  - url: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.021/BengalPOS-1.0.9-mac-arm64.dmg
+    sha512: DpEBY6mOPyN3glV4yywnfPLNhs8ONwSfpZ9H7K7c3zBYghDiV1M3jSD2oy54IBgGTpGb8YZjKOdun+GK+gC2Bg==
+    size: 314150294
+path: https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.021/BengalPOS-1.0.9-mac-x64.zip
+sha512: F+CzvBYQeliHoMY/lu0pcmJZTIKkFJ6NI9cG/B6KQT4jHjR5F7d2WovYWxLChTyFYaZbrxLZsjEtAzV8f2BSew==
+releaseDate: '2026-11-21T04:43:24.016Z'
