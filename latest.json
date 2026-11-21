@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-21T04:47:20Z",
-  "notes": "1.021 y escritorio 1.0.9: errores siempre en español, sin Plan y Facturación en la app (los planes se contratan con ventas), «Ir al administrador» solo para administradores, mejor espaciado en terminales con navegador viejo (PAX) y contador de billetes al cerrar caja.",
+  "updatedAt": "2026-11-21T06:10:18Z",
+  "notes": "1.022 y escritorio 1.0.10: el ticket sale con el estilo de la web (letra, tamaños y negritas), ajuste de tamaño y tipo de letra, ticket de prueba de 58/80 mm, logo siempre y pruebas de cámara y lector de códigos.",
   "android": {
-    "version": "1.021",
-    "build": 22,
-    "apk": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.021/BengalPOS-1.021-android.apk",
+    "version": "1.022",
+    "build": 23,
+    "apk": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.022/BengalPOS-1.022-android.apk",
     "play": "https://play.google.com/store/apps/details?id=com.bengalpos.app"
   },
   "ios": {
@@ -13,12 +13,12 @@
     "lookup": "https://itunes.apple.com/lookup?bundleId=com.bengalpos.app&country=mx"
   },
   "windows": {
-    "version": "1.0.9",
-    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.021/BengalPOS-Setup-1.0.9.exe"
+    "version": "1.0.10",
+    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.022/BengalPOS-Setup-1.0.10.exe"
   },
   "mac": {
-    "version": "1.0.9",
-    "arm64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.021/BengalPOS-1.0.9-mac-arm64.dmg",
-    "x64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.021/BengalPOS-1.0.9-mac-x64.dmg"
+    "version": "1.0.10",
+    "arm64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.022/BengalPOS-1.0.10-mac-arm64.dmg",
+    "x64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.022/BengalPOS-1.0.10-mac-x64.dmg"
   }
 }
