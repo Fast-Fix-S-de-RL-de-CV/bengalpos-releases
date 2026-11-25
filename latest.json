@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-25T20:58:16Z",
-  "notes": "Escritorio 1.0.13: báscula USB en vivo, precio por unidad y autorización de supervisor por PIN/contraseña.",
+  "updatedAt": "2026-11-25T23:42:03Z",
+  "notes": "Windows 1.0.14: pesaje rápido con F2 e impresión directa Xprinter de 80 mm.",
   "android": {
     "version": "1.022",
     "build": 23,
@@ -13,8 +13,8 @@
     "lookup": "https://itunes.apple.com/lookup?bundleId=com.bengalpos.app&country=mx"
   },
   "windows": {
-    "version": "1.0.13",
-    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.027/BengalPOS-Setup-1.0.13.exe"
+    "version": "1.0.14",
+    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.028/BengalPOS-Setup-1.0.14.exe"
   },
   "mac": {
     "version": "1.0.13",
