@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-21T23:43:19Z",
-  "notes": "Escritorio 1.0.12: las mesas solo aparecen si el negocio las usa, según su giro.",
+  "updatedAt": "2026-11-25T08:02:08Z",
+  "notes": "Escritorio 1.0.13: báscula USB en vivo, precio por unidad y autorización de supervisor por PIN/contraseña.",
   "android": {
     "version": "1.022",
     "build": 23,
@@ -17,8 +17,8 @@
     "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.022/BengalPOS-Setup-1.0.10.exe"
   },
   "mac": {
-    "version": "1.0.12",
-    "arm64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.024/BengalPOS-1.0.12-mac-arm64.dmg",
-    "x64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.024/BengalPOS-1.0.12-mac-x64.dmg"
+    "version": "1.0.13",
+    "arm64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.027/BengalPOS-1.0.13-mac-arm64.dmg",
+    "x64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.027/BengalPOS-1.0.13-mac-x64.dmg"
   }
 }
