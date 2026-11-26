@@ -20,5 +20,12 @@
     "version": "1.0.13",
     "arm64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.027/BengalPOS-1.0.13-mac-arm64.dmg",
     "x64": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.027/BengalPOS-1.0.13-mac-x64.dmg"
+  },
+  "comandero": {
+    "android": {
+      "version": "1.20",
+      "build": 21,
+      "apk": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.20-comandero-android/Comandero-1.20-21-release.apk"
+    }
   }
 }
