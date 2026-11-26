@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-25T23:42:03Z",
-  "notes": "Windows 1.0.14: pesaje rápido con F2 e impresión directa Xprinter de 80 mm.",
+  "updatedAt": "2026-11-26T07:56:04Z",
+  "notes": "Windows 1.0.15: Compra rápida y Compra de mercancía desde Gasto para negocios y grupos autorizados.",
   "android": {
     "version": "1.022",
     "build": 23,
@@ -13,8 +13,8 @@
     "lookup": "https://itunes.apple.com/lookup?bundleId=com.bengalpos.app&country=mx"
   },
   "windows": {
-    "version": "1.0.14",
-    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.028/BengalPOS-Setup-1.0.14.exe"
+    "version": "1.0.15",
+    "url": "https://github.com/Fast-Fix-S-de-RL-de-CV/bengalpos-releases/releases/download/v1.029/BengalPOS-Setup-1.0.15.exe"
   },
   "mac": {
     "version": "1.0.13",
